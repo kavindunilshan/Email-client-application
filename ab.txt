@@ -1,0 +1,21 @@
+Friend: kavindu,meeya,kavindunilshanliyanage@gmail.com,2000/02/17
+Official: nilshan,kavindun.20@cse.mrt.ac.lk,ceo
+Official_friend: Dinithi,kavinilj10@gmail.com,software,1999/02/17
+Friend: gaya,gaya,gaya@gmail.com,1965/10/04
+Friend: Risni,,risni.jeewa@gmail.com,2000/03/08
+Friend: minindu,vihangi,alphaminindu@gmail.com,2000/12/18
+
+
+Friend: kavindu,meeya,kavindunilshanliyanage@gmail.com,2000/02/17
+Friend: kavinduncse,meeya,kavindun.20@cse.mrt.ac.lk,2000/02/17
+Official: nilshan,kavindun.20@cse.mrt.ac.lk,ceo
+Official_friend: Dinithi,dinithiliyanage.95@gmail.com,software,1995/11/01
+Official_friend: Dinithi,kavinilj10@gmail.com,software,1999/02/17
+Friend: Risni,,risni.jeewa@gmail.com,2000/03/08
+Friend: kavindunilshanliyanage,meeya,kavindunilshanliyanage@gmail.com,2000/02/17
+
+Friend: kavindu,meeya,kavindunilshanliyanage@gmail.com,2000/02/17
+Official_friend: Dinithi,kavinilj10@gmail.com,software,1999/02/17
+Friend: minindu,vihangi,micelbravo@gmail.com,2000/08/14
+Friend: Risni,,risni.jeewa@gmail.com,2000/03/08
+
